@@ -6,7 +6,7 @@ This is the discovery server for Tutofast microservices.
 
 ## Deploy at Heroku
 
-Main endpoints are available at the this [link](https://discovery-server-tutofast.herokuapp.com/).
+Discovery Server is available at this [link](https://discovery-server-tutofast.herokuapp.com/).
 
 ## Team
 - Jesus Gonzalo Duran Huancas
